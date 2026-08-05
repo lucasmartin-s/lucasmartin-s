@@ -1,4 +1,4 @@
-# Lucas Martins 👋
+# Lucas Martins 
 
 🌎 Geographer • Data & Geospatial Analyst
 
