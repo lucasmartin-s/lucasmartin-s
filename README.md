@@ -27,9 +27,6 @@
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="https://github.com/lucasmartin-s">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/lucasmartin-s">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
