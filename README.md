@@ -1,16 +1,22 @@
-## Hi there 👋
+# Lucas Martins 👋
 
-<!--
-**lucasmartin-s/lucasmartin-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌎 Geographer • Data Analyst • GIS Enthusiast
 
-Here are some ideas to get you started:
+📍 Data Analyst @ ONU-Habitat  
+🎓 Geography @ UFRJ | ENCE/IBGE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,postgresql,vscode,r" />
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48"/>
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/SEU-USUARIO">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"/>
+</a>
+<a href="mailto:SEUEMAIL@email.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+</p>
