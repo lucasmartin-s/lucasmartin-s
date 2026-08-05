@@ -1,6 +1,6 @@
 # Lucas Martins 👋
 
-🌎 Geographer • Data Analyst • GIS Enthusiast
+🌎 Geographer • Data Analyst • Spatial Data Analyst
 
 📍 Data Analyst @ UN-Habitat, Rio de Janeiro, Brazil
 
@@ -13,23 +13,24 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,vscode,r" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,vscode,r,anaconda,jupyter" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square" />
+  <img src="https://img.shields.io/badge/ArcGIS_Online-2C7AC3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Survey123-2C7AC3?style=flat-square" />
   <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
 
 ## 📫 Connect with me
 
-<p>
-  <a href="https://www.linkedin.com/in/lucasmartin-s">
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="mailto:lucasmartins.sml@gmail.com">
+  <a href="mailto:SEUEMAIL@email.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
