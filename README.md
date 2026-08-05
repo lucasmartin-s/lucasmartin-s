@@ -13,7 +13,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,vscode,r,anaconda,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,vscode,r,anaconda" />
 </p>
 
 <p align="center">
