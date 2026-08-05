@@ -1,6 +1,6 @@
 # Lucas Martins 👋
 
-🌎 Geographer • Geospatial Data Analyst
+🌎 Geographer • Data & Geospatial Analyst
 
 📍 Data Analyst @ UN-Habitat, Rio de Janeiro, Brazil
 
