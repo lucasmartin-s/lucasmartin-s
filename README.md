@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Survey123-4CAF50?style=flat-square" />
   <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ## 📫 Connect with me
