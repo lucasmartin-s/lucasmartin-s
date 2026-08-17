@@ -1,14 +1,10 @@
-# Lucas Martins 👋
+# Hi 👋
 
-Geographer • Data & Geospatial Analyst
+I'm Lucas, a geographer based in Rio de Janeiro, Brazil. I currently work as a Data Analyst at [UN-Habitat](https://unhabitat.org), focusing on data and geospatial analysis.
 
-Data Analyst @ UN-Habitat, Rio de Janeiro, Brazil
+B.Sc. in Geography from the [Federal University of Rio de Janeiro (UFRJ)](https://ufrj.br), with a Graduate Certificate in Environmental Analysis and Territorial Management from the [National School of Statistical Sciences (ENCE/IBGE)](https://www.gov.br/ibge/pt-br/ence), and currently pursuing a Graduate Certificate in Data Engineering at [PUC Minas](https://www.pucminas.br).
 
-## Education
-
-- B.Sc. in Geography — Federal University of Rio de Janeiro (UFRJ)
-- Graduate Certificate in Environmental Analysis and Territorial Management — ENCE/IBGE
-- Graduate Certificate in Data Engineering *(in progress)* — PUC Minas
+Feel free to contact/connect on [LinkedIn](https://www.linkedin.com/in/lucasmartin-s/)
 
 ## Tech Stack
 
