@@ -1,16 +1,16 @@
 # Lucas Martins 👋
 
-🌎 Geographer • Data & Geospatial Analyst
+Geographer • Data & Geospatial Analyst
 
-📍 Data Analyst @ UN-Habitat, Rio de Janeiro, Brazil
+Data Analyst @ UN-Habitat, Rio de Janeiro, Brazil
 
-## 🎓 Education
+## Education
 
 - B.Sc. in Geography — Federal University of Rio de Janeiro (UFRJ)
 - Graduate Certificate in Environmental Analysis and Territorial Management — ENCE/IBGE
 - Graduate Certificate in Data Engineering *(in progress)* — PUC Minas
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgresql,vscode,r,anaconda" />
