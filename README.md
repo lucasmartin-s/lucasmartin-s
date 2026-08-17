@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm Lucas, a geographer based in Rio de Janeiro, Brazil. I currently work as a Data Analyst at [UN-Habitat](https://unhabitat.org), focusing on data and geospatial analysis.
+I'm Lucas, a geographer based in Rio de Janeiro, Brazil. I currently work as a Data Analyst at [UN-Habitat](https://unhabitat.org).
 
 B.Sc. in Geography from the [Federal University of Rio de Janeiro (UFRJ)](https://ufrj.br), with a Graduate Certificate in Environmental Analysis and Territorial Management from the [National School of Statistical Sciences (ENCE/IBGE)](https://ence.ibge.gov.br/), and currently pursuing a Graduate Certificate in Data Engineering at [PUC Minas](https://www.pucminas.br).
 
